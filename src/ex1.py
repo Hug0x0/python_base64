@@ -1,6 +1,6 @@
-# Exo 1
-#
-#
+""" 
+Exo 1
+"""
 
 depart = 'ABCD'
 liste = list(depart)
