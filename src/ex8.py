@@ -1,7 +1,6 @@
-"""
-8
-"""
-
+# Exo 8
+#
+#
 
 def depart(list) -> list:
     depart = list
