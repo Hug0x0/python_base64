@@ -4,7 +4,7 @@ Exo 7
 n2ch = "".join([
     "ABCDEFGHIJKLMNOPQRSTUVWXYZ",
     "abcdefghijklmnopqrstuvwxyz",
-    "0123456789-_",
+    "0123456789+/",
 ])
 ch2n = dict(zip(n2ch, range(len(n2ch))))
 
