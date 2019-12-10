@@ -1,3 +1,7 @@
+"""
+2
+"""
+
 depart = ['A', 'B', 'C', 'D']
 tab = []
 for i in depart:
